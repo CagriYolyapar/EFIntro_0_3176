@@ -16,7 +16,7 @@ namespace EFIntro_0
         /*
                     ORM(Object Relational Mapping)
 
-        Veritabanındaki şema yapısını , kullandıgınız programlama dilinde olusturma işlemidir...Class'larınız veritabanınızdaki tablolarla, property'leriniz tablolarınızdaki sütunlarla eşleştirilir...Veritabanınızdaki verileriniz ilgili class'lardan olusan instance'lar olarak görülür...
+        Veritabanındaki yapılarımızı , kullandıgınız programlama dilindeki yapılarla eşleştirme işlemidir...Class'larınız veritabanınızdaki tablolarla, property'leriniz tablolarınızdaki sütunlarla eşleştirilir...Veritabanınızdaki verileriniz ilgili class'lardan olusan instance'lar olarak görülür...
 
         --Entity Framework
 
